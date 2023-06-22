@@ -1,0 +1,73 @@
+@media screen and (max-width:767px)
+{
+   
+#box1 {
+    background-color: rgb(161, 241, 134);
+    color: rgb(19, 17, 17);
+    height: 200px;
+    width: 450px;
+    font-size: large;
+    font-weight: bold;
+    border: solid 4px rgb(15, 15, 15);
+    padding: 10px 5px;
+    float: left;
+  
+   
+}
+
+#box2 {
+    background-color: rgb(161, 241, 134);
+    color: rgb(12, 11, 12);
+    height: 200px;
+    width: 450px;
+    font-size: large;
+    font-weight: bold;
+    border: solid 4px rgb(5, 5, 5);
+    padding: 10px 5px;
+    margin-left: 5%;
+    float: left;
+  
+  
+
+
+}
+
+#box3 {
+    background-color: rgb(161, 241, 134);
+    color: rgb(10, 10, 10);
+    height: 200px;
+    width: 450px;
+    font-size: large;
+    font-weight: bold;
+    border: solid 4% rgb(9, 10, 10);
+   margin-left: 5%;
+    padding: 10px 5px;
+    float: left;
+   
+ 
+
+
+
+
+}
+
+.h1 {
+    text-align: center;
+    color: brown;
+}
+
+#s1 {
+    text-align: right;
+    color: rgb(227, 243, 6);
+}
+
+#s2 {
+    text-align: right;
+    color: rgb(250, 10, 10);
+}
+
+#s3 {
+    text-align: right;
+    color: rgb(28, 13, 238);
+}
+}
